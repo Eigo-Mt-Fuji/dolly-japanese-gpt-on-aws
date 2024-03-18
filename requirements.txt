@@ -1,0 +1,10 @@
+# https://pypi.org/project/transformers/4.38.2/
+transformers == 4.38.2
+# https://github.com/langchain-ai/langchain?tab=readme-ov-file
+langchain ==0.1.10
+langchain-openai
+# https://github.com/langchain-ai/langchain/tree/master/libs/community
+langchain-community == 0.0.25
+# https://github.com/openai/openai-python
+openai ==1.13.3
+
